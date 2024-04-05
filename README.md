@@ -9,8 +9,8 @@ class Bio extends SoftwareDeveloper {
   location = 'San Francisco, California' || 'Remote';
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'React Native'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
+  frontend = ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'React Native'];
+  backend  = ['NodeJs', 'ExpressJs', 'MongoDB'];
 }
 ```
 <br/>
@@ -62,4 +62,10 @@ class Skills extends SoftwareDeveloper {
 <p align="left">
 <a href="https://www.linkedin.com/in/bhanuvikram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=“Bhanu Vikram” height="30" width="40" /></a>
 <a href="https://twitter.com/iambhanuvikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=“Bhanu Vikram” height="30" width="40" /></a>
+
+<br/>
+<br/>
+<br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BhanuVikram&theme=tokyonight)](https://git.io/streak-stats)
 
