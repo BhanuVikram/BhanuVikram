@@ -6,10 +6,10 @@ import SoftwareDeveloper from San Francisco;
 class Bio extends SoftwareDeveloper {
   name     = 'Bhanu Vikram';
   title    = 'Software Engineer' || 'Full Stack Web Developer' || 'MERN Stack Developer';
-  location = 'San Francisco, California' || 'Remote ';
+  location = 'San Francisco, California' || 'Remote';
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux', 'React Native'];
+  frontend  = ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'React Native'];
   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
 }
 ```
@@ -23,23 +23,8 @@ class Skills extends SoftwareDeveloper {
 
 <br/>
 
-I’m currently working on [Ecommerce Web App](https://github.com/BhanuVikram/Ecommerce_MERN)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuVikram&langs_count=5&theme=tokyonight)]()
 
-I’m currently practicing **MERN Stack**
-
-Ask me about **Teaching Yourself JavaScript**
-<!--  - 📝 I regularly write articles on [Medium](https://medium.com/@bhanuvikram) -->
-<!--  - 📄 See my projects live at -->
-<br/>
-<h5 align="left">Connect With Me</h5>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhanuvikram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=“Bhanu Vikram” height="30" width="40" /></a>
-<a href="https://twitter.com/iambhanuvikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=“Bhanu Vikram” height="30" width="40" /></a>
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=“Bhanu Vikram” height="30" width="40" /></a> -->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=“Bhanu Vikram” height="30" width="40" /></a> -->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt=“Bhanu Vikram” height="30" width="40" /></a> -->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=“Bhanu Vikram” height="30" width="40" /></a> -->
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt=“Bhanu Vikram” height="30" width="40" /></a> -->
 </p>
 <br/>
 <h5 align="left">Languages & Tools</h5>
@@ -72,8 +57,9 @@ Ask me about **Teaching Yourself JavaScript**
 </p>
 
 <br/>
-<br/>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuVikram&langs_count=5&theme=tokyonight)]()
+<h5 align="left">Connect With Me</h5>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhanuvikram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=“Bhanu Vikram” height="30" width="40" /></a>
+<a href="https://twitter.com/iambhanuvikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=“Bhanu Vikram” height="30" width="40" /></a>
 
-<br/>
